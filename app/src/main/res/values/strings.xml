@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lion counter</string>
+
+    <string name="initial_count">0</string>
+    <string name="one_lion">lion</string>
+    <string name="many_lions">lions</string>
+    <string name="button_label_more_lions">More lions</string>
+    <string name="combine_count_and_lion_template">%d %s</string>
+    <string name="we_have_counted_lions_template">We have %s!</string>
+</resources>
